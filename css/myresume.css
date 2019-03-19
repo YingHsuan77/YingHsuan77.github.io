@@ -26,3 +26,10 @@ h1 .text-primary{
 .graph_set{
 	margin-top:3rem;
 }
+
+
+
+.bg-primary{
+	background-color: #60c9c0;!important;
+	background-image: url("../img/my-little-plaid-dark.png");
+}
