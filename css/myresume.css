@@ -28,7 +28,6 @@ h1 .text-primary{
 }
 
 
-
 .bg-primary{
 	background-color: #60c9c0;!important;
 	background-image: url("../img/my-little-plaid-dark.png");
@@ -42,5 +41,7 @@ h3{
 	font-family: 'Noto Sans TC', sans-serif;
 }
 
-
+a{
+	font-family: 'Noto Sans TC', sans-serif;
+}
 
