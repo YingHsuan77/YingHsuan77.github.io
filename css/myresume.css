@@ -23,7 +23,14 @@ h1 .text-primary{
 	line-height:3rem;
 }
 
+.graph_set{
+	margin-top:3rem;
+}
 
+
+.bg-primary{
+	background-color: #60c9c0;!important;
+	background-image: url("../img/my-little-plaid-dark.png");
 }
 
 h2{
@@ -38,48 +45,16 @@ a{
 	font-family: 'Noto Sans TC', sans-serif;
 }
 
-p{
-  color: #868E96 ;
-}
-
 table {width: 80%;}
 
 div class="subheading mb-3"{
   color: pink ;
 }
 
-th, td: {text-align: center;}
-
-table {
-	border-width:1px；
-	border-	style:solid；
-	border-color:#000；
-	border-collapse:collapse
-}
-		
-th {
-	border-width:1px；
-	border-	style:solid；
-	border-color:#000；
-	color:#fff；
-	backgroung-color:#000
+p{
+  color: #868E96 ;
 }
 
-td{
-	border-width:1px；
-	border-	style:solid；
-	border-color:#000；
+h3{
+  color: #b054ad ;
 }
-
-
-
-
-
-.graph_set{
-	margin-top:3rem;
-}
-
-
-.bg-primary{
-	background-color: #60c9c0;!important;
-	background-image: url("../img/my-little-plaid-dark.png");
