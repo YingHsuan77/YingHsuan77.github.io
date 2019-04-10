@@ -48,6 +48,10 @@ a{
 table {width: 80%;}
 
 div class="subheading mb-3"{
+  color: pink ;
+}
+
+a{
   color: #868E96 ;
 }
 
