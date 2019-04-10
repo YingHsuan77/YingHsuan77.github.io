@@ -50,12 +50,26 @@ div class="subheading mb-3"{
 
 th, td: {text-align: center;}
 
-table {border-collapse: collapse;}
+table {
+	border-width:1px；
+	border-	style:solid；
+	border-color:#000；
+	border-collapse:collapse
+}
+		
+th {
+	border-width:1px；
+	border-	style:solid；
+	border-color:#000；
+	color:#fff；
+	backgroung-color:#000
+}
 
-
-
-
-
+td{
+	border-width:1px；
+	border-	style:solid；
+	border-color:#000；
+}
 
 
 
