@@ -45,8 +45,9 @@ a{
 	font-family: 'Noto Sans TC', sans-serif;
 }
 
+table {width: 80%;}
+
 div{
-	style="background-color:#F4ACB7;
+  color: pink;
 }
 
-table {width: 80%;}
