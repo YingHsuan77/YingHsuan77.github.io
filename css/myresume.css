@@ -48,6 +48,7 @@ div class="subheading mb-3"{
   color: pink ;
 }
 
+th, td: {text-align: center;}
 
 .graph_set{
 	margin-top:3rem;
