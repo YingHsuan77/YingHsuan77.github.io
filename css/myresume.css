@@ -50,6 +50,17 @@ div class="subheading mb-3"{
 
 th, td: {text-align: center;}
 
+td {border-bottom:1px solid #3f294a;}
+
+
+
+
+
+
+
+
+
+
 .graph_set{
 	margin-top:3rem;
 }
