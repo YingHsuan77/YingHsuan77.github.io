@@ -23,14 +23,7 @@ h1 .text-primary{
 	line-height:3rem;
 }
 
-.graph_set{
-	margin-top:3rem;
-}
 
-
-.bg-primary{
-	background-color: #60c9c0;!important;
-	background-image: url("../img/my-little-plaid-dark.png");
 }
 
 h2{
@@ -41,8 +34,16 @@ h3{
 	font-family: 'Noto Sans TC', sans-serif;
 }
 
+h3{
+  color: #b054ad ;
+}
+
 a{
 	font-family: 'Noto Sans TC', sans-serif;
+}
+
+p{
+  color: #868E96 ;
 }
 
 table {width: 80%;}
@@ -51,10 +52,12 @@ div class="subheading mb-3"{
   color: pink ;
 }
 
-p{
-  color: #868E96 ;
+
+.graph_set{
+	margin-top:3rem;
 }
 
-h3{
-  color: #b054ad ;
-}
+
+.bg-primary{
+	background-color: #60c9c0;!important;
+	background-image: url("../img/my-little-plaid-dark.png");
